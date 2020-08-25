@@ -1,6 +1,6 @@
 ---
 title: 《Core1：再思救赎论》
-date: 2020-08-24
+date: 2020-08-24 21:00
 categories:
 - 救赎论Core
 ---

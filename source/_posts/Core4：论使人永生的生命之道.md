@@ -1,6 +1,6 @@
 ---
 title: 《Core4：论使人永生的生命之道》
-date: 2020-08-24
+date: 2020-08-24 18:00
 categories:
 - 救赎论Core
 ---

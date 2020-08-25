@@ -1,6 +1,6 @@
 ---
 title: 《Core5：论我们对因信称义的完全误读》
-date: 2020-08-24
+date: 2020-08-24 17:00
 categories:
 - 救赎论Core
 ---

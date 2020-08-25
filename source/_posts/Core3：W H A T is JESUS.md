@@ -1,6 +1,6 @@
 ---
 title: 《Core3：W H A T is JESUS》
-date: 2020-08-24
+date: 2020-08-24 19:00
 categories:
 - 救赎论Core
 ---
